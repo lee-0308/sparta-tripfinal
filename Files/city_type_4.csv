@@ -1,0 +1,46 @@
+City_name,negative,neutral,positive
+Abu Dhabi,0.0,0.12,0.88
+Amsterdam,0.0,0.08,0.92
+Athens,0.0,0.04,0.96
+Bali,0.04,0.0,0.96
+Barcelona,0.0,0.04,0.96
+Beijing,0.0,0.16,0.84
+Berlin,0.04,0.0,0.96
+Bern,0.04,0.0,0.96
+Brisbane,0.0,0.04,0.96
+Bucharest,0.04,0.0,0.96
+Cairo,0.0,0.15,0.85
+Chiangmai,0.04,0.04,0.92
+Christchurch,0.08,0.08,0.84
+Copenhagen,0.0,0.04,0.96
+Dubai,0.04,0.08,0.88
+Hanoi,0.04,0.04,0.92
+Hawaii,0.08,0.08,0.84
+Hong Kong,0.04,0.08,0.88
+Kuala Lumpur,0.0,0.04,0.96
+Lima,0.04,0.0,0.96
+Lisbon,0.04,0.0,0.96
+London,0.04,0.0,0.96
+Los Angeles,0.08,0.08,0.84
+Madrid,0.08,0.04,0.88
+Manila,0.08,0.12,0.8
+Melbourne,0.0,0.04,0.96
+Mexico City,0.0,0.04,0.96
+Miami,0.04,0.12,0.84
+Naples,0.043478260869565216,0.043478260869565216,0.9130434782608695
+Oslo,0.0,0.04,0.96
+Paris,0.0,0.04,0.96
+Rio de Janeiro,0.08,0.0,0.92
+Rome,0.08,0.16,0.76
+San Francisco,0.0,0.04,0.96
+Santiago,0.0,0.12,0.88
+Sao Paulo,0.08,0.0,0.92
+Serengeti,0.0,0.09090909090909091,0.9090909090909091
+Shanghai,0.04,0.04,0.92
+Singapore,0.0,0.04,0.96
+Taipei,0.05,0.1,0.85
+Thessaloniki,0.04,0.12,0.84
+Toronto,0.04,0.0,0.96
+Warsaw,0.0,0.04,0.96
+Washington D.C.,0.0,0.04,0.96
+Wellington,0.0,0.04,0.96

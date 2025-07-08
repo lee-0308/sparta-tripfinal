@@ -1,0 +1,364 @@
+Unnamed: 0,City,SpotName,Reviewer,full_address,Latitude,Longitude
+0,Abu Dhabi,Emirates Heritage Village,5,"Emirates Heritage Village, Abu Dhabi",24.4766604,54.3309894
+1,Abu Dhabi,"Ferrari World Yas Island, Abu Dhabi",5,"Ferrari World Yas Island, Abu Dhabi, Abu Dhabi",24.4843883,54.607704
+2,Abu Dhabi,Qasr Al Hosn,5,"Qasr Al Hosn, Abu Dhabi",24.482237,54.354723
+3,Abu Dhabi,Qasr Al Watan,5,"Qasr Al Watan, Abu Dhabi",24.4619932,54.3057378
+4,Abu Dhabi,"Warner Bros. World™ Yas Island, Abu Dhabi",5,"Warner Bros. World™ Yas Island, Abu Dhabi, Abu Dhabi",24.4909273,54.5992359
+5,Alexandria,Alexandria Ancient Roman Theater,5,"Alexandria Ancient Roman Theater, Alexandria",31.19464560000000,29.9040251
+6,Alexandria,Catacombs of Kom el Shoqafa,5,"Catacombs of Kom el Shoqafa, Alexandria",31.1787378,29.8930706
+7,Alexandria,Montaza Palace,5,"Montaza Palace, Alexandria",31.2884642,30.0159916
+8,Alexandria,"Royal Jewelry Museum, Alexandria",5,"Royal Jewelry Museum, Alexandria, Alexandria",31.2406096,29.9632848
+9,Alexandria,Serapeum of Alexandria,5,"Serapeum of Alexandria, Alexandria",31.1823466,29.8962872
+10,Amsterdam,Dungeon Amsterdam,5,"Dungeon Amsterdam, Amsterdam",52.3701599,4.8921108
+11,Amsterdam,Heineken Experience,5,"Heineken Experience, Amsterdam",52.35783130000000,4.8918249
+12,Amsterdam,Rijksmuseum,5,"Rijksmuseum, Amsterdam",52.3599976,4.8852188
+13,Amsterdam,Ripley's Believe It or Not!,5,"Ripley's Believe It or Not!, Amsterdam",52.3724001,4.8935666
+14,Amsterdam,Vondelpark,5,"Vondelpark, Amsterdam",52.3579946,4.8686484
+15,Athens,Acropolis Museum,5,"Acropolis Museum, Athens",37.9684499,23.7285227
+16,Athens,Acropolis of Athens,5,"Acropolis of Athens, Athens",37.9715323,23.7257492
+17,Athens,Athens National Garden,5,"Athens National Garden, Athens",37.9725878,23.737433
+18,Athens,National Archaeological Museum,5,"National Archaeological Museum, Athens",37.98902290000000,23.7327599
+19,Athens,Parthenon,5,"Parthenon, Athens",37.9715285,23.7267166
+20,Auckland,Auckland Domain,5,"Auckland Domain, Auckland",-36.858931,174.7754857
+21,Auckland,Auckland Zoo,5,"Auckland Zoo, Auckland",-36.864113,174.719685
+22,Auckland,Cornwall Park,5,"Cornwall Park, Auckland",-36.8974467,174.7843076
+23,Auckland,SEA LIFE Kelly Tarlton's Aquarium,5,"SEA LIFE Kelly Tarlton's Aquarium, Auckland",-36.8469604,174.8174321
+24,Auckland,Sky Tower,5,"Sky Tower, Auckland",-36.848448,174.762191
+25,Bali,Pura Tirta Empul,5,"Pura Tirta Empul, Bali",-8.4156589,115.3153284
+26,Bali,Sacred Monkey Forest Sanctuary,5,"Sacred Monkey Forest Sanctuary, Bali",-8.5193727,115.2606299
+27,Bali,Sangeh Monkey Forest,5,"Sangeh Monkey Forest, Bali",-8.4817743,115.2067391
+28,Bali,Tanah Lot,5,"Tanah Lot, Bali",-8.621213,115.086807
+29,Bali,Tegallalang Rice Terrace,5,"Tegallalang Rice Terrace, Bali",-8.431711200000000,115.279303
+30,Bangkok,Asiatique Sky,5,"Asiatique Sky, Bangkok",13.7052689,100.5031826
+31,Bangkok,Bangkok World,5,"Bangkok World, Bangkok",13.8053114,100.6923497
+32,Bangkok,Royal Hall of Piman Rattaya,5,"Royal Hall of Piman Rattaya, Bangkok",13.7497432,100.4905577
+33,Bangkok,SEA LIFE Bangkok Ocean World,5,"SEA LIFE Bangkok Ocean World, Bangkok",13.7459351,100.5352057
+34,Bangkok,The Grand Palace,5,"The Grand Palace, Bangkok",13.7498558,100.4915765
+35,Barcelona,Casa Batllo,5,"Casa Batll?, Barcelona",41.3917,2.164918
+36,Barcelona,Casa Vicens Gaudi,5,"Casa Vicens Gaud?, Barcelona",41.4034978,2.1506455
+37,Barcelona,La Pedrera - Casa Milà,5,"La Pedrera - Casa Mil?, Barcelona",41.3952155,2.1619024
+38,Barcelona,Park Guell,5,"Park G?ell, Barcelona",41.4144948,2.1526945
+39,Barcelona,Port Vell,5,"Port Vell, Barcelona",41.3751582,2.1806792
+40,Beijing,Forbidden City,5,"Forbidden City, Beijing",39.9168038,116.3971621
+41,Beijing,Lama Temple,5,"Lama Temple, Beijing",39.94767120000000,116.4172902
+42,Beijing,Summer Palace,5,"Summer Palace, Beijing",39.9999823,116.2754606
+43,Beijing,Temple of Heaven,5,"Temple of Heaven, Beijing",39.8821803,116.4066056
+44,Beijing,Yuanmingyuan Park,5,"Yuanmingyuan Park, Beijing",40.0080982,116.2982148
+45,Berlin,Alexanderplatz,5,"Alexanderplatz, Berlin",52.52198140000000,13.413306
+46,Berlin,Berlin Cathedral,5,"Berlin Cathedral, Berlin",52.5190608,13.401078
+47,Berlin,Berlin TV Tower,5,"Berlin TV Tower, Berlin",52.520815,13.409419
+48,Berlin,Brandenburg Gate,5,"Brandenburg Gate, Berlin",52.5162746,13.377704
+49,Berlin,Memorial to the Murdered Jews of Europe,5,"Memorial to the Murdered Jews of Europe, Berlin",52.5139474,13.3787126
+50,Bern,BearPark,5,"BearPark, Bern",46.9481216,7.459452100000000
+51,Bern,Cathedral of Bern,5,"Cathedral of Bern, Bern",46.94723950000000,7.451531000000000
+52,Bern,Waisenhausplatz,5,"Waisenhausplatz, Bern",46.9491682,7.4443111
+53,Bern,Zentrum Paul Klee,5,"Zentrum Paul Klee, Bern",46.948891,7.474098
+54,Bern,Zytglogge,5,"Zytglogge, Bern",46.9480298,7.4477977
+55,Brisbane,Lone Pine Koala Sanctuary,5,"Lone Pine Koala Sanctuary, Brisbane",-27.5337818,152.968815
+56,Brisbane,Mount Coot-Tha Summit Lookout,5,"Mount Coot-Tha Summit Lookout, Brisbane",-27.4850152,152.9591263
+57,Brisbane,Museum of Brisbane,5,"Museum of Brisbane, Brisbane",-27.4686797,153.0238277
+58,Brisbane,Roma Street Parkland,5,"Roma Street Parkland, Brisbane",-27.4630081,153.0189415
+59,Brisbane,The Wheel of Brisbane,5,"The Wheel of Brisbane, Brisbane",-27.4751355,153.0208095
+60,Bucharest,Arcul de Triumf,5,"Arcul de Triumf, Bucharest",44.467226,26.0781205
+61,Bucharest,Cismigiu Gardens,5,"Cismigiu Gardens, Bucharest",44.4373441,26.0910803
+62,Bucharest,Palace of Parliament,5,"Palace of Parliament, Bucharest",44.4275035,26.0873506
+63,Bucharest,"The Church of the ""Stavropoleos"" Monastery",5,"The Church of the ""Stavropoleos"" Monastery, Bucharest",44.4317929,26.0988593
+64,Bucharest,The Romanian Athenaeum,5,"The Romanian Athenaeum, Bucharest",44.44117900000000,26.097493
+65,Budapest,Buda Castle,5,"Buda Castle, Budapest",47.5014928,19.0336045
+66,Budapest,Fisherman's Bastion,5,"Fisherman's Bastion, Budapest",47.5021827,19.0347813
+67,Budapest,Heroes' Square,5,"Heroes' Square, Budapest",47.5149429,19.0778626
+68,Budapest,St. Stephen's Basilica,5,"St. Stephen's Basilica, Budapest",47.5008902,19.0539887
+69,Budapest,Vajdahunyad Castle,5,"Vajdahunyad Castle, Budapest",47.5148896,19.0830593
+70,Cairo,"""Winds of Change"" = your private English guide + personal driver in Cairo&Giza, Egypt",5,"""Winds of Change"" = your private English guide + personal driver in Cairo&Giza, Egypt, Cairo",30.0361355,31.2294293
+71,Cairo,Al-Azhar Park,5,"Al-Azhar Park, Cairo",30.0414258,31.2655811
+72,Cairo,Cairo Citadel,5,"Cairo Citadel, Cairo",30.0287457,31.2597144
+73,Cairo,Cairo Tower,5,"Cairo Tower, Cairo",30.0459751,31.2242988
+74,Cairo,Khan el-Khalili,5,"Khan el-Khalili, Cairo",30.0477386,31.2622538
+75,Cancun,Dolphins Beach,5,"Dolphins Beach, Cancun",21.0608608,-86.77902910000000
+76,Cancun,Interactive Aquarium Cancun,5,"Interactive Aquarium Canc?n, Cancun",21.1094311,-86.7643231
+77,Cancun,Museo Maya de Canc?n y Zona Arqueol?gica de San Miguelito,5,"Museo Maya de Canc?n y Zona Arqueol?gica de San Miguelito, Cancun",21.161908,-86.8515279
+78,Cancun,Cancun Tower,5,"Torre Esc?nica del Embarcadero de Canc?n, Cancun",21.161908,-86.8515279
+79,Cancun,Zona Arqueologica de El Meco,5,"Zona Arqueol?gica de El Meco, Cancun",21.2108333,-86.8041667
+80,Casablanca,La Tour de l'Horloge,5,"La Tour de l'Horloge, Casablanca",33.596889,-7.617253
+81,Casablanca,Mohammed V Square,5,"Mohammed V Square, Casablanca",33.5911054,-7.618587700000000
+82,Casablanca,Parc Sindibad,5,"Parc Sindibad, Casablanca",33.5805142,-7.689608300000000
+83,Casablanca,Sacred Heart Cathedral,5,"Sacred Heart Cathedral, Casablanca",33.5911582,-7.624407800000000
+84,Casablanca,United Nations Square,5,"United Nations Square, Casablanca",33.5948128,-7.618771500000000
+85,Cebu,Casa Gorordo Museum,5,"Casa Gorordo Museum, Cebu",10.299913,123.9048616
+86,Cebu,Fort San Pedro,5,"Fort San Pedro, Cebu",10.292457,123.905636
+87,Cebu,Magellan's Cross,5,"Magellan's Cross, Cebu",10.2935626,123.9019549
+88,Cebu,TOPS Cebu,5,"TOPS Cebu, Cebu",10.3706141,123.8708714
+89,Cebu,Temple of Leah,5,"Temple of Leah, Cebu",10.3688727,123.8732522
+90,Chiangmai,Chiang Mai Night Safari,5,"Chiang Mai Night Safari, Chiangmai",18.7423503,98.9173241
+91,Chiangmai,Mae Kha Canal,5,"Mae Kha Canal, Chiangmai",18.7770657,98.9955681
+92,Chiangmai,Wang Bua Ban Pha Waterfall,5,"Wang Bua Ban Pha Ngoep, Chiangmai",18.8122544,98.94164120000000
+93,Chiangmai,Wat Lok Moli,5,"Wat Lok Moli, Chiangmai",18.7960243,98.9825675
+94,Chiangmai,Watchediluang Varaviharn,5,"Watchediluang Varaviharn, Chiangmai",18.7869693,98.9865804
+95,Christchurch,Canterbury Museum,5,"Canterbury Museum, Christchurch",-43.5299811,172.6320349
+96,Christchurch,Christchurch Botanic Gardens,5,"Christchurch Botanic Gardens, Christchurch",-43.5306989,172.6232211
+97,Christchurch,Christchurch Gondola,5,"Christchurch Gondola, Christchurch",-43.58494030000000,172.7075123
+98,Christchurch,International Antarctic Centre,5,"International Antarctic Centre, Christchurch",-43.4884068,172.547093
+99,Christchurch,Quake City,5,"Quake City, Christchurch",-43.5285832,172.6333082
+100,Copenhagen,Amalienborg Palace,5,"Amalienborg Palace, Copenhagen",55.6840588,12.5930201
+101,Copenhagen,Christiansborg Palace,5,"Christiansborg Palace, Copenhagen",55.6763218,12.5803274
+102,Copenhagen,Ny Carlsberg Glyptotek,5,"Ny Carlsberg Glyptotek, Copenhagen",55.67298,12.572543
+103,Copenhagen,The Little Mermaid,5,"The Little Mermaid, Copenhagen",55.69286,12.5992828
+104,Copenhagen,Tivoli Gardens,5,"Tivoli Gardens, Copenhagen",55.6736841,12.5681471
+105,Delhi,India Gate,5,"India Gate, Delhi",28.612912,77.2295097
+106,Delhi,Jantar Mantar,5,"Jantar Mantar, Delhi",28.6270547,77.21662670000000
+107,Delhi,Mehrauli Archeological Park Walk,5,"Mehrauli Archeological Park Walk, Delhi",28.5202041,77.187679
+108,Delhi,Purana Quila,5,"Purana Quila, Delhi",28.6095744,77.24373710000000
+109,Delhi,The Garden of Five Senses,5,"The Garden of Five Senses, Delhi",28.5133969,77.1974671
+110,Dubai,Al Fahidi Historical Neighbourhood,5,"Al Fahidi Historical Neighbourhood, Dubai",25.2642363,55.30026430000000
+111,Dubai,Burj Khalifa,5,"Burj Khalifa, Dubai",25.197197,55.27437640000000
+112,Dubai,Burj Park,5,"Burj Park, Dubai",25.1943843,55.2735508
+113,Dubai,Dubai Aquarium & Underwater Zoo,5,"Dubai Aquarium & Underwater Zoo, Dubai",25.1975134,55.2785005
+114,Dubai,The Dubai Fountain,5,"The Dubai Fountain, Dubai",25.1951554,55.2751579
+115,Florence,Giotto's Bell Tower,5,"Giotto's Bell Tower, Florence",43.7728578,11.2557822
+116,Florence,Palazzo Vecchio,5,"Palazzo Vecchio, Florence",43.7693012,11.2561509
+117,Florence,Piazza del Duomo,5,"Piazza del Duomo, Florence",43.7734385,11.2565501
+118,Florence,Piazzale Michelangelo,5,"Piazzale Michelangelo, Florence",43.7624561,11.2649304
+119,Florence,Ponte Vecchio,5,"Ponte Vecchio, Florence",43.7678821,11.2530605
+120,Granada,Catedral de Granada,5,"Catedral de Granada, Granada",37.1761737,-3.599305300000000
+121,Granada,Generalife,5,"Generalife, Granada",37.1769576,-3.584433
+122,Granada,Granada Centre,5,"Granada Centre, Granada",37.1767291,-3.5959164
+123,Granada,Mirador de San Nicolas,5,"Mirador de San Nicol?s, Granada",37.1811058,-3.5926637
+124,Granada,Royal Chapel of Granada,5,"Royal Chapel of Granada, Granada",37.1763713,-3.598606300000000
+125,Hanoi,Hanoi Old Quarter,5,"Hanoi Old Quarter, Hanoi",21.0352664,105.8500124
+126,Hanoi,Hanoi Train Street,5,"Hanoi Train Street, Hanoi",21.0177521,105.8408822
+127,Hanoi,Heritage House,5,"Heritage House, Hanoi",21.034419,105.8535283
+128,Hanoi,Sao Viet Bus,5,"Sao Viet Bus, Hanoi",21.0086753,105.8615796
+129,Hanoi,Xe 2 t?ng H? N?i - Hop on hop off bus Vietnam Sightseeing,5,"Xe 2 t?ng H? N?i - Hop on hop off bus Vietnam Sightseeing, Hanoi",21.0277644,105.8341598
+130,Hawaii,Aloha Tower,5,"Aloha Tower, Hawaii",21.3071238,-157.8660266
+131,Hawaii,Haleakala National Park,5,"Haleakal? National Park, Hawaii",20.7203826,-156.1551524
+132,Hawaii,Hawaii Volcanoes National Park,5,"Hawai?i Volcanoes National Park, Hawaii",19.4963669,-155.4661859
+133,Hawaii,Iolani Palace,5,"Iolani Palace, Hawaii",21.3067572,-157.8587697
+134,Hawaii,Lapakahi State Historical Park,5,"Lapakahi State Historical Park, Hawaii",20.1746174,-155.8971655
+135,Ho Chi Minh City,Ben Thanh Market,5,"Ben Thanh Market, Ho Chi Minh City",10.7725168,106.6980208
+136,Ho Chi Minh City,Independence Palace,5,"Independence Palace, Ho Chi Minh City",10.7769942,106.6953021
+137,Ho Chi Minh City,Notre Dame Cathedral of Saigon,5,"Notre Dame Cathedral of Saigon, Ho Chi Minh City",10.7797855,106.6990189
+138,Ho Chi Minh City,Statue of Ho Chi Minh,5,"Statue of Ho Chi Minh, Ho Chi Minh City",10.7760193,106.7015489
+139,Ho Chi Minh City,War Remnants Museum,5,"War Remnants Museum, Ho Chi Minh City",10.7795106,106.6920916
+140,Hong Kong,Avenue of Stars HK,5,"Avenue of Stars HK, Hong Kong",22.2959455,114.1768095
+141,Hong Kong,Hong Kong Observation Wheel,5,"Hong Kong Observation Wheel, Hong Kong",22.2853075,114.1615851
+142,Hong Kong,Ocean Park,5,"Ocean Park, Hong Kong",22.2346359,114.1721746
+143,Hong Kong,Tian Tan Buddha,5,"Tian Tan Buddha, Hong Kong",22.2539847,113.904984
+144,Hong Kong,Victoria Harbour,5,"Victoria Harbour, Hong Kong",22.30744579369530,114.1677101505830
+145,Istanbul,Basilica Cistern,5,"Basilica Cistern, Istanbul",41.00838400000000,28.977878
+146,Istanbul,Gate of Salutation,5,"Gate of Salutation, Istanbul",41.011408,28.983227
+147,Istanbul,Sultan Ahmet Square,5,"Sultanahmet Square, Istanbul",41.0063286,28.9757051
+148,Istanbul,Topkapi Palace Museum,5,"Topkapi Palace Museum, Istanbul",41.0115195,28.98337890000000
+149,Istanbul,Visit Istanbul,5,"Visit Istanbul, Istanbul",41.0170675,28.9693411
+150,Jakarta,Jakarta Old Town,5,"Jakarta Old Town, Jakarta",-6.135502800000000,106.8119396
+151,Jakarta,Monas,5,"Monas, Jakarta",-6.1753924,106.8271528
+152,Jakarta,Suropati Park,5,"Suropati Park, Jakarta",-6.199387,106.8326333
+153,Jakarta,Taman Impian Jaya Ancol,5,"Taman Impian Jaya Ancol, Jakarta",-6.125274700000000,106.8335569
+154,Jakarta,Wisata Kota Tua Jakarta,5,"Wisata Kota Tua Jakarta, Jakarta",-6.1350687,106.8136795
+155,Kaoshiung,Central Park,5,"Central Park, Kaoshiung",22.6247381,120.2994576
+156,Kaoshiung,Dome of Light,5,"Dome of Light, Kaoshiung",22.6313189,120.3019731
+157,Kaoshiung,Kaohsiung Lighthouse,5,"Kaohsiung Lighthouse, Kaoshiung",22.6155918,120.2650699
+158,Kaoshiung,Liuhe Night Market,5,"Liuhe Night Market, Kaoshiung",22.6320758,120.2991547
+159,Kaoshiung,Spring and Autumn Pavilions,5,"Spring and Autumn Pavilions, Kaoshiung",22.6822687,120.2927297
+160,Kota Kinabalu,Free Heritage Walk,5,"Free Heritage Walk, Kota Kinabalu",5.985384500000000,116.0781898
+161,Kota Kinabalu,Kota Kinabalu Wetland Ramsar Site,5,"Kota Kinabalu Wetland Ramsar Site, Kota Kinabalu",5.987957800000000,116.0892242
+162,Kota Kinabalu,Mari Mari Cultural Village,5,"Mari Mari Cultural Village, Kota Kinabalu",5.9738777,116.203442
+163,Kota Kinabalu,Marlin Statue,5,"Marlin Statue, Kota Kinabalu",5.9849383,116.0744884
+164,Kota Kinabalu,Tanjung Aru Beach,5,"Tanjung Aru Beach, Kota Kinabalu",5.9474267,116.0468751
+165,Kuala Lumpur,Aquaria KLCC,5,"Aquaria KLCC, Kuala Lumpur",3.1535483,101.713178
+166,Kuala Lumpur,KL Bird Park,5,"KL Bird Park, Kuala Lumpur",3.1391529,101.6916602
+167,Kuala Lumpur,KLCC Park,5,"KLCC Park, Kuala Lumpur",3.1555902,101.7147872
+168,Kuala Lumpur,Menara Kuala Lumpur,5,"Menara Kuala Lumpur, Kuala Lumpur",3.1528762,101.7038516
+169,Kuala Lumpur,Merdeka Square,5,"Merdeka Square, Kuala Lumpur",3.1490605,101.6936592
+170,Lima,"Basilica and Convent of San Francisco, Lima",5,"Bas?lica and Convent of San Francisco, Lima, Lima",-12.0453403,-77.027025
+171,Lima,Huaca Pucllana Site Museum,5,"Huaca Pucllana Site Museum, Lima",-12.1112266,-77.0333064
+172,Lima,Larco Museum,5,"Larco Museum, Lima",-12.072569,-77.0710106
+173,Lima,Lima Main Square,5,"Lima Main Square, Lima",-12.0461294,-77.0306524
+174,Lima,Magic Water Circuit of the Reserve Park,5,"Magic Water Circuit of the Reserve Park, Lima",-12.07249,-77.0350113
+175,Lisbon,Belem Tower,5,"Bel?m Tower, Lisbon",38.6915837,-9.215977300000000
+176,Lisbon,Carmo Archaeological Museum,5,"Carmo Archaeological Museum, Lisbon",38.7120383,-9.140612900000000
+177,Lisbon,Castelo de Sao Jorge,5,"Castelo de S?o Jorge, Lisbon",38.7139092,-9.1334762
+178,Lisbon,Lisbon Cathedral,5,"Lisbon Cathedral, Lisbon",38.7098339,-9.1329535
+179,Lisbon,Ocean rio de Lisboa,5,"Ocean?rio de Lisboa, Lisbon",38.7052687,-9.144682400000000
+180,London,SEA LIFE London Aquarium,5,"SEA LIFE London Aquarium, London",51.501558,-0.119506
+181,London,The London Bridge Experience & London Tombs,5,"The London Bridge Experience & London Tombs, London",51.50634180000000,-0.08848010000000000
+182,London,The London Dungeon,5,"The London Dungeon, London",51.50251190000000,-0.1187628
+183,London,The View from The Shard,5,"The View from The Shard, London",51.5044028,-0.0865331
+184,London,Tower of London,5,"Tower of London, London",51.50811240000000,-0.0759493
+185,Los Angeles,Griffith Observatory,5,"Griffith Observatory, Los Angeles",34.1184341,-118.3003935
+186,Los Angeles,Griffith Park,5,"Griffith Park, Los Angeles",34.1466376,-118.2844424
+187,Los Angeles,Hollywood Sign,5,"Hollywood Sign, Los Angeles",34.1341151,-118.3215482
+188,Los Angeles,Hollywood Walk of Fame,5,"Hollywood Walk of Fame, Los Angeles",34.1016059,-118.3295694
+189,Los Angeles,Hollywood Wax Museum,5,"Hollywood Wax Museum, Los Angeles",34.1017446,-118.3381545
+190,Macau,A-Ma Temple,5,"A-Ma Temple, Macau",22.1861677,113.5312759
+191,Macau,Macao Museum,5,"Macao Museum, Macau",22.1972104,113.5421582
+192,Macau,Macau Fisherman's Wharf,5,"Macau Fisherman's Wharf, Macau",22.1927078,113.5562757
+193,Macau,Macau Tower,5,"Macau Tower Convention and Entertainment Center, Macau",22.1800673,113.5368371
+194,Macau,Senado Square,5,"Senado Square, Macau",22.1935334,113.5397593
+195,Madrid,El Retiro Park,5,"El Retiro Park, Madrid",40.415258,-3.6834657
+196,Madrid,Plaza Mayor,5,"Plaza Mayor, Madrid",40.415511,-3.7074009
+197,Madrid,Puerta de Alcala,5,"Puerta de Alcal?, Madrid",40.419992,-3.688737
+198,Madrid,Royal Palace of Madrid,5,"Royal Palace of Madrid, Madrid",40.417955,-3.714312000000000
+199,Madrid,Temple of Debod,5,"Temple of Debod, Madrid",40.4240216,-3.717769500000000
+200,Manila,Casa Manila,5,"Casa Manila, Manila",14.5896588,120.9751693
+201,Manila,Fort Santiago,5,"Fort Santiago, Manila",14.5942337,120.970412
+202,Manila,Manila Ocean Park,5,"Manila Ocean Park, Manila",14.5793088,120.9724475
+203,Manila,National Museum of Fine Arts,5,"National Museum of Fine Arts, Manila",14.5869356,120.9812491
+204,Manila,Rizal Park,5,"Rizal Park, Manila",14.5826446,120.9786887
+205,Marseille,Cathedrale La Major,5,"Cath?drale La Major, Marseille",43.2992976,5.364701700000000
+206,Marseille,Chateau d'If,5,"Ch?teau d'If, Marseille",43.279761,5.325894
+207,Marseille,Fort de Ratonneau,5,"Fort de Ratonneau, Marseille",43.2827801,5.3116919
+208,Marseille,Museum of European and Mediterranean Civilisations,5,"Museum of European and Mediterranean Civilisations, Marseille",43.2966941,5.3610825
+209,Marseille,Notre-Dame de la Grande,5,"Notre-Dame de la Garde, Marseille",43.2839533,5.3712377
+210,Melbourne,Fed Square,5,"Fed Square, Melbourne",-37.8179789,144.9690576
+211,Melbourne,Melbourne Skydeck,5,"Melbourne Skydeck, Melbourne",-37.8213341,144.9646982
+212,Melbourne,Royal Botanic Gardens Victoria,5,"Royal Botanic Gardens Victoria - Melbourne Gardens, Melbourne",-37.8302443,144.9801496
+213,Melbourne,SEA LIFE Melbourne Aquarium,5,"SEA LIFE Melbourne Aquarium, Melbourne",-37.820627,144.95822
+214,Melbourne,Shrine of Remembrance,5,"Shrine of Remembrance, Melbourne",-37.8305164,144.9734319
+215,Mexico City,Bosque de Chapultepec,5,"Bosque de Chapultepec, Mexico City",19.4194815,-99.18945580000000
+216,Mexico City,Mexico City Metropolitan Cathedral,5,"Mexico City Metropolitan Cathedral, Mexico City",19.4343942,-99.13308240000000
+217,Mexico City,Museo Nacional de Antropologia,5,"Museo Nacional de Antropolog?a, Mexico City",19.4260032,-99.1862786
+218,Mexico City,Palacio de Bellas Artes,5,"Palacio de Bellas Artes, Mexico City",19.4352,-99.1412
+219,Mexico City,Templo Mayor Museum,5,"Templo Mayor Museum, Mexico City",19.4346038,-99.13188100000000
+220,Miami,HistoryMiami Museum,5,"HistoryMiami Museum, Miami",25.7746635,-80.196383
+221,Miami,Miami Seaquarium,5,"Miami Seaquarium, Miami",25.7338942,-80.1652648
+222,Miami,Miami Walk of Fame,5,"Miami Walk of Fame, Miami",25.7781959,-80.1874465
+223,Miami,Skyviews Miami Observation Wheel,5,"Skyviews Miami Observation Wheel, Miami",25.7770198,-80.184519
+224,Miami,Wynwood Walls,5,"Wynwood Walls, Miami",25.8010178,-80.1993841
+225,Montreal,Le Vieux Montr?al,5,"Le Vieux Montr?al, Montreal",45.5074534,-73.5544177
+226,Montreal,Montreal Biodome,5,"Montreal Biodome, Montreal",45.5596545,-73.5497189
+227,Montreal,Notre-Dame Basilica of Montreal,5,"Notre-Dame Basilica of Montreal, Montreal",45.5045254,-73.5561204
+228,Montreal,Parc Jean-Drapeau,5,"Parc Jean-Drapeau, Montreal",45.5139952,-73.5338306
+229,Montreal,Vieux-Port de Montr?al,5,"Vieux-Port de Montr?al, Montreal",45.5076798,-73.5508688
+230,Naples,Clam Pass Park,5,"Clam Pass Park, Naples",26.2110659,-81.81034200000000
+231,Naples,Lowdermilk Park,5,"Lowdermilk Park, Naples",26.162054,-81.809978
+232,Naples,Naples Beach,3,"Naples Beach, Naples",26.13360336734110,-81.8074313345576
+233,Naples,Naples Beach Wharf,5,"Naples Beach Wharf, Naples",26.1325019,-81.8064124
+234,Naples,Naples Zoo at Caribbean Gardens,5,"Naples Zoo at Caribbean Gardens, Naples",26.169477,-81.78780430000000
+235,New York,Central Park,5,"Central Park, New York",40.7825547,-73.9655834
+236,New York,Empire State Building,5,"Empire State Building, New York",40.7484405,-73.98566440000000
+237,New York,SUMMIT One Vanderbilt,5,"SUMMIT One Vanderbilt, New York",40.7527746,-73.9787253
+238,New York,Times Square,5,"Times Square, New York",40.7579747,-73.9855426
+239,New York,Top of The Rock,5,"Top of The Rock, New York",40.7593495,-73.9794087
+240,Nice,Colline du Château,5,"Colline du Ch?teau, Nice",43.6959352,7.279660100000000
+241,Nice,Marc Chagall National Museum,5,"Marc Chagall National Museum, Nice",43.7094754,7.270165100000000
+242,Nice,Matisse Museum,5,"Matisse Museum, Nice",43.7196181,7.275620100000000
+243,Nice,Parc Phœnix,5,"Parc Phœnix, Nice",43.6687512,7.2192135
+244,Nice,Promenade du Paillon,5,"Promenade du Paillon, Nice",43.6975383,7.2718495
+245,Oslo,Frognerparken,5,"Frognerparken, Oslo",59.92645830000000,10.7034734
+246,Oslo,Kon-Tiki Museum,5,"Kon-Tiki Museum, Oslo",59.9035075,10.6979806
+247,Oslo,The Fram Museum,5,"The Fram Museum, Oslo",59.90338130000000,10.699729
+248,Oslo,The Royal Palace,5,"The Royal Palace, Oslo",59.917148,10.7275613
+249,Oslo,The Vigeland Park,5,"The Vigeland Park, Oslo",59.927029,10.700865
+250,Paris,Arc de Triomphe,5,"Arc de Triomphe, Paris",48.8737917,2.2950275
+251,Paris,Conciergerie,5,"Conciergerie, Paris",48.8560114,2.3454953
+252,Paris,Eiffel Tower,5,"Eiffel Tower, Paris",48.85837010000000,2.2944813
+253,Paris,Place des Vosges,5,"Place des Vosges, Paris",48.8554892,2.3664003
+254,Paris,Promenade Jean-Paul Belmondo,5,"Promenade Jean-Paul Belmondo, Paris",48.8555812,2.287589
+255,Perth,Elizabeth Quay,5,"Elizabeth Quay, Perth",-31.9575763,115.8569874
+256,Perth,Jacob's Ladder,5,"Jacob's Ladder, Perth",-31.9559796,115.8460661
+257,Perth,Kings Park and Botanic Garden,5,"Kings Park and Botanic Garden, Perth",-31.9609106,115.8321929
+258,Perth,The Bell Tower,5,"The Bell Tower, Perth",-31.9589457,115.8582526
+259,Perth,The Perth Mint,5,"The Perth Mint, Perth",-31.956821,115.869405
+260,Porto,Cl?rigos Church,5,"Cl?rigos Church, Porto",41.1579438,-8.629105300000000
+261,Porto,Palácio da Bolsa,5,"Pal?cio da Bolsa, Porto",41.1413772,-8.615672500000000
+262,Porto,Porto Cathedral,5,"Porto Cathedral, Porto",41.1428531,-8.6111165
+263,Porto,Torre dos Clerigos,5,"Torre dos Cl?rigos, Porto",41.1579438,-8.629105300000000
+264,Porto,World of Discoveries,5,"World of Discoveries, Porto",41.1434829,-8.620800900000000
+265,Prague,Old Town Bridge Tower,5,"Old Town Bridge Tower, Prague",50.0862306,14.4136141
+266,Prague,Old Town Square,5,"Old Town Square, Prague",50.0874682,14.4207565
+267,Prague,Prague Astronomical Clock,5,"Prague Astronomical Clock, Prague",50.0870215,14.4207065
+268,Prague,Prague Castle,5,"Prague Castle, Prague",50.0910966,14.4016165
+269,Prague,Prague Visitor Pass,5,"Prague Visitor Pass, Prague",50.086634,14.41994
+270,Qingdao,Huashi Building,5,"Huashi Building, Qingdao",36.050123,120.35341
+271,Qingdao,Qingdao Zhongshan Park,5,"Qingdao Zhongshan Park, Qingdao",36.0629328,120.356522
+272,Qingdao,Zhanqiao Pier,5,"Zhanqiao Pier, Qingdao",36.058454,120.320491
+273,Qingdao,五四Square,5,"五四??, Qingdao",36.0654,120.4057
+274,Qingdao,回澜阁,5,"回??, Qingdao",36.0607,120.3356
+275,Rio de Janeiro,Catedral of Rio de Janeiro,5,"Catedral Metropolitana de S?o Sebasti?o do Rio de Janeiro, Rio de Janeiro",-22.9367935,-43.1890727
+276,Rio de Janeiro,Christ the Redeemer,5,"Christ the Redeemer, Rio de Janeiro",-22.951916,-43.2104872
+277,Rio de Janeiro,Escadaria Selaron,5,"Escadaria Selar?n, Rio de Janeiro",-22.9068467,-43.1728965
+278,Rio de Janeiro,Museu do Amanha,5,"Museu do Amanh?, Rio de Janeiro",-22.8940177,-43.1794418
+279,Rio de Janeiro,Tijuca National Park,5,"Tijuca National Park, Rio de Janeiro",-22.9414002,-43.2927945
+280,Rome,Fontana dei Tritoni,5,"Fontana dei Tritoni, Rome",41.8885323,12.4812335
+281,Rome,Pantheon,5,"Pantheon, Rome",41.8986108,12.4768729
+282,Rome,Piazza del Popolo,5,"Piazza del Popolo, Rome",41.9110163,12.4762093
+283,Rome,Roman Forum,5,"Roman Forum, Rome",41.8920906,12.4864378
+284,Rome,Trevi Fountain,5,"Trevi Fountain, Rome",41.9009325,12.483313
+285,San Francisco,Coit Tower,5,"Coit Tower, San Francisco",37.8023949,-122.4058222
+286,San Francisco,Golden Gate Bridge,5,"Golden Gate Bridge, San Francisco",37.8199109,-122.4785598
+287,San Francisco,Golden Gate Park,5,"Golden Gate Park, San Francisco",37.7680222,-122.4670096
+288,San Francisco,PIER 39,5,"PIER 39, San Francisco",37.80867300000000,-122.409821
+289,San Francisco,de Young Museum,5,"de Young Museum, San Francisco",37.771469,-122.4686755
+290,Santiago,Chilean Museum of Pre-Columbian Art,5,"Chilean Museum of Pre-Columbian Art, Santiago",-33.4386677,-70.6523921
+291,Santiago,La Chascona,5,"La Chascona, Santiago",-33.4488897,-70.6692655
+292,Santiago,Museum of Memory & Human Rights,5,"Museum of Memory & Human Rights, Santiago",-33.4397361,-70.6793861
+293,Santiago,Plaza de Armas de Santiago,5,"Plaza de Armas de Santiago, Santiago",-33.4378941,-70.6510923
+294,Santiago,Sky Costanera,5,"Sky Costanera, Santiago",-33.4169579,-70.6067722
+295,Sao Paulo,Ibirapuera Park,5,"Ibirapuera Park, Sao Paulo",-23.5859595,-46.6584346
+296,Sao Paulo,Liberdade District,5,"Liberdade District, Sao Paulo",-23.5554978,-46.6352565
+297,Sao Paulo,Museum of Art of Sao Paulo Assis Chateaubriand,5,"Museum of Art of S?o Paulo Assis Chateaubriand, Sao Paulo",-23.5557714,-46.6395571
+298,Sao Paulo,Pinacoteca de Sao Paulo,5,"Pinacoteca de S?o Paulo, Sao Paulo",-23.5343612,-46.633676
+299,Sao Paulo,S? Metropolitan Cathedral,5,"S? Metropolitan Cathedral, Sao Paulo",-23.5557714,-46.6395571
+300,Serengeti,Maasai Kopjes,5,"Maasai Kopjes, Serengeti",-2.5060574,34.8829436
+301,Serengeti,Serengeti National Park,5,"Serengeti National Park, Serengeti",-2.3333333,34.8333333
+302,Serengeti,Serengeti sign post,1,"Serengeti sign post, Serengeti",-1.8936005,34.6856509
+303,Shanghai,Oriental Pearl TV Tower,5,"Oriental Pearl TV Tower, Shanghai",31.2396889,121.4997553
+304,Shanghai,Shanghai Tower,5,"Shanghai Tower, Shanghai",31.233518,121.505618
+305,Shanghai,The Bund,5,"The Bund, Shanghai",31.2402611,121.490577
+306,Shanghai,Tianzifang,5,"Tianzifang, Shanghai",31.2082573,121.4681133
+307,Shanghai,Yu Garden,5,"Yu Garden, Shanghai",31.2272355,121.492094
+308,Singapore,Fort Canning Park,5,"Fort Canning Park, Singapore",1.2943876,103.8458033
+309,Singapore,Gardens by the Bay,5,"Gardens by the Bay, Singapore",1.2815683,103.8636132
+310,Singapore,Merlion Park,5,"Merlion Park, Singapore",1.2867449,103.8543872
+311,Singapore,Singapore Flyer,5,"Singapore Flyer, Singapore",1.2892988,103.8631368
+312,Singapore,SkyPark Observation Deck,5,"SkyPark Observation Deck, Singapore",1.2852044,103.8610313
+313,Sydney,BridgeClimb Sydney,5,"BridgeClimb Sydney, Sydney",-33.857439,151.2077747
+314,Sydney,Darling Harbour,5,"Darling Harbour, Sydney",-33.87488,151.2009
+315,Sydney,Royal Botanic Garden Sydney,5,"Royal Botanic Garden Sydney, Sydney",-33.8641859,151.2165708
+316,Sydney,SEA LIFE Sydney Aquarium,5,"SEA LIFE Sydney Aquarium, Sydney",-33.8695997,151.2021381
+317,Sydney,Sydney Tower Eye,5,"Sydney Tower Eye, Sydney",-33.8703155,151.2088801
+318,Taipei,Chiang Kai-shek Memorial Hall,5,"Chiang Kai-shek Memorial Hall, Taipei",25.035502,121.5201832
+319,Taipei,Daan Park,5,"Daan Park, Taipei",25.0296587,121.5362867
+320,Taipei,Dazhong Gate,5,"Dazhong Gate, Taipei",25.0359956,121.5226313
+321,Taipei,Taipei Historic Free Walking Tour Meeting Point - Like It Formosa,5,"Taipei Historic Free Walking Tour Meeting Point - Like It Formosa, Taipei",25.0329636,121.5654268
+322,Taipei,Yangmingshan National Park,5,"Yangmingshan National Park, Taipei",25.1942462,121.5609363
+323,Thessaloniki,Acropolis of Thessaloniki,5,"Acropolis of Thessaloniki, Thessaloniki",40.6435681,22.9626978
+324,Thessaloniki,Arch of Galerius,5,"Arch of Galerius, Thessaloniki",40.6322237,22.9517511
+325,Thessaloniki,Aristotelous Square,5,"Aristotelous Square, Thessaloniki",40.6323456,22.9408366
+326,Thessaloniki,Ataturk Museum of Thessaloniki,5,"Ataturk Museum of Thessaloniki, Thessaloniki",40.6357483,22.9543541
+327,Thessaloniki,White Tower of Thessaloniki,5,"White Tower of Thessaloniki, Thessaloniki",40.6264478,22.9483815
+328,Toronto,CN Tower,5,"CN Tower, Toronto",43.6425662,-79.3870568
+329,Toronto,Casa Loma,5,"Casa Loma, Toronto",43.6845696,-79.41108540000000
+330,Toronto,Little Canada,5,"Little Canada, Toronto",43.65696580000000,-79.3804789
+331,Toronto,Royal Ontario Museum,5,"Royal Ontario Museum, Toronto",43.6677097,-79.3947771
+332,Toronto,Toronto Zoo,5,"Toronto Zoo, Toronto",43.8178667,-79.18543730000000
+333,Vancouver,Capilano Suspension Bridge Park,5,"Capilano Suspension Bridge Park, Vancouver",49.3428609,-123.1149244
+334,Vancouver,Science World,5,"Science World, Vancouver",49.273376,-123.103834
+335,Vancouver,Stanley Park,5,"Stanley Park, Vancouver",49.30425840000000,-123.1442523
+336,Vancouver,Vancouver Aquarium,5,"Vancouver Aquarium, Vancouver",49.3004876,-123.1308774
+337,Vancouver,Vancouver Lookout,5,"Vancouver Lookout, Vancouver",49.2849182,-123.1122284
+338,Venice,Bridge of Sighs,5,"Bridge of Sighs, Venice",45.43404960000000,12.3408544
+339,Venice,Clock Tower,5,"Clock Tower, Venice",45.4347587,12.3389668
+340,Venice,Doge's Palace,5,"Doge's Palace, Venice",45.4337035,12.3403894
+341,Venice,Ponte di Rialto,5,"Ponte di Rialto, Venice",45.4379842,12.335898
+342,Venice,Saint Mark's Basilica,5,"Saint Mark's Basilica, Venice",45.4345606,12.3397125
+343,Warsaw,Centro Historico,5,"Centro Historico, Warsaw",52.2477331,21.0136079
+344,Warsaw,Palace of Culture and Science,5,"Palace of Culture and Science, Warsaw",52.231838,21.005995
+345,Warsaw,Royal Baths Park,5,"Royal Baths Park, Warsaw",52.2146733,21.0328941
+346,Warsaw,The Royal Castle in Warsaw,5,"The Royal Castle in Warsaw, Warsaw",52.2477436,21.0141275
+347,Warsaw,Warsaw Uprising Museum,5,"Warsaw Uprising Museum, Warsaw",52.23239360000000,20.9810184
+348,Washington D.C.,International Spy Museum,5,"International Spy Museum, Washington D.C.",38.8841419,-77.0255748
+349,Washington D.C.,National Mall,5,"National Mall, Washington D.C.",38.8875144,-77.0363934
+350,Washington D.C.,The Yards,5,"The Yards, Washington D.C.",38.8730905,-77.00105720000000
+351,Washington D.C.,United States Botanic Garden,5,"United States Botanic Garden, Washington D.C.",38.8881451,-77.0128833
+352,Washington D.C.,Washington National Cathedral,5,"Washington National Cathedral, Washington D.C.",38.9305946,-77.0707808
+353,Wellington,Museum of New Zealand Te Papa Tongarewa,5,"Museum of New Zealand Te Papa Tongarewa, Wellington",-41.2904563,174.7820894
+354,Wellington,Wellington Botanic Garden,5,"Wellington Botanic Garden, Wellington",-41.28293620000000,174.7666016
+355,Wellington,Wellington Museum,5,"Wellington Museum, Wellington",-41.2852794,174.7780948
+356,Wellington,Weta Cave,5,"Weta Cave, Wellington",-41.3063939,174.8242868
+357,Wellington,Zealandia Te M?ra a T?ne,5,"Zealandia Te M?ra a T?ne, Wellington",-41.2908984,174.7535089
+358,Zurich,Grossm?nster,5,"Grossm?nster, Zurich",47.3768866,8.541694
+359,Zurich,Lindenhof,5,"Lindenhof, Zurich",47.3721811,8.5413182
+360,Zurich,Paradeplatz,5,"Paradeplatz, Zurich",47.3697845,8.5387624
+361,Zurich,Rotes Schloss,5,"Rotes Schloss, Zurich",47.3650779,8.536623000000000
+362,Zurich,Zurich City Tour,5,"Zurich City Tour, Zurich",47.3700825,8.5394493
