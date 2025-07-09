@@ -9,8 +9,6 @@ from sklearn.preprocessing import StandardScaler
 from matplotlib import cm
 from pathlib import Path
 
-
-
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = BASE_DIR / "Files"
 IMG_DIR = BASE_DIR / "Images"

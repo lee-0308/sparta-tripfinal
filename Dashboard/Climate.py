@@ -7,18 +7,6 @@ import numpy as np
 import platform
 from pathlib import Path
 from matplotlib import font_manager, rc
-import os
-
-# 서버용 폰트 경로
-font_path = "/usr/share/fonts/truetype/nanum/NanumGothic.ttf"
-
-# 폰트 존재하면 설정
-if os.path.exists(font_path):
-    font_name = font_manager.FontProperties(fname=font_path).get_name()
-    rc('font', family=font_name)
-    plt.rcParams['axes.unicode_minus'] = False  # 마이너스 깨짐 방지
-else:
-    print("⚠️ 서버에 한글 폰트가 없습니다.")
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "Files"
