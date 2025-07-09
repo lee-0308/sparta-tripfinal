@@ -10,3 +10,4 @@ wordcloud
 google-generativeai
 openpyxl
 folium
+streamlit_folium
