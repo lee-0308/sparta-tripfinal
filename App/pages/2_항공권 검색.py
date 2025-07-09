@@ -26,8 +26,13 @@ df = df[df['Departure_Date'].notnull()]
 st.title("✈️ 항공권 검색 및 도착 공항 지도")
 
 # 4. 출발 공항 선택
-departure_airports = df['Dep_Airport_KOR'].dropna().unique()
-selected_departure = st.selectbox("출발 공항을 선택하세요", sorted(departure_airports))
+departure_airports = df['Dep_Airport_KOR'].dropna().unique().tolist()
+selected_airport = st.session_state.get('selected_airport', departure_airports[0])
+departure_airports = sorted(departure_airports)
+index = departure_airports.index(selected_airport) if selected_airport in departure_airports else 0
+print(index)
+selected_departure = st.selectbox("출발 공항을 선택하세요", departure_airports, index=index)
+
 
 # 5. 도착 공항 필터 (출발지 기준)
 filtered_df1 = df[df['Dep_Airport_KOR'] == selected_departure]

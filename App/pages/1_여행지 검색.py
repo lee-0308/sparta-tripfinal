@@ -56,12 +56,14 @@ df_spot = pd.read_csv(DATA_DIR /"revie_spots_with_coords.csv")
 df_airport = pd.read_csv(DATA_DIR /"airports_full_done.csv")
 df_hotel = pd.read_csv(DATA_DIR /"hotels_with_lalong.csv")
 df_flight = pd.read_csv(DATA_DIR /"LCC_FSC_Hour_Price_USD.csv")
+df_flight_info = pd.read_csv(DATA_DIR/"final_flights.csv")
 
 avg_rating = df_review.groupby("SpotName")["ReviewRating"].mean().reset_index()
 avg_rating.columns = ["city", "avg_rating"]
 df_flight["Avg_Flight_Hour"] = df_flight[["In_Hour", "Out_Hour"]].mean(axis=1)
 
 merged_info = pd.merge(df_info, df_city, left_on='City_name', right_on='city', how='left')
+merged_airport = pd.merge(df_airport, df_flight_info, left_on="Airport_Name", right_on="Arriv_Airport", how='left')
 
 # --- 사이드바 ---
 with st.sidebar:
@@ -128,6 +130,12 @@ else:
 
     with col1:
         st.subheader("상세 정보")
+        if st.button("항공권 예약하기"):
+            # print(merged_airport.head)
+            airport_name = merged_airport[merged_airport['City_name']==selected_city]['Arriv_Airport_KOR'].unique()
+            st.session_state['selected_airport'] = airport_name
+            # print(airport_name)
+            st.switch_page("pages/2_항공권 검색.py")
         place = st.session_state.selected_place_info
         if place:
             name = next((place.get(k) for k in ["SpotName", "Hotel Name", "Airport_Name"] if pd.notna(place.get(k))), "이름 정보 없음")
@@ -153,8 +161,12 @@ else:
                     st.write(f"- {rev}")
             else:
                 st.info("리뷰가 없습니다.")
+            
+
+
         else:
             st.info("지도 마커를 클릭해보세요!")
+        
 
     with col2:
         m = folium.Map(location=[lat, lon], zoom_start=10)
