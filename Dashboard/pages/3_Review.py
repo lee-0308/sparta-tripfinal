@@ -7,6 +7,16 @@ from wordcloud import WordCloud
 import pydeck as pdk
 from collections import Counter
 from pathlib import Path
+from matplotlib import font_manager, rc
+
+# 나눔고딕 경로 (Streamlit Cloud 기준)
+font_path = "/usr/share/fonts/truetype/nanum/NanumGothic.ttf"
+
+# 폰트 설정
+font_name = font_manager.FontProperties(fname=font_path).get_name()
+rc('font', family=font_name)
+plt.rcParams['axes.unicode_minus'] = False  # 마이너스 깨짐 방지
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = BASE_DIR / "Files"
