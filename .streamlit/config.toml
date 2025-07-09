@@ -1,0 +1,8 @@
+[server]
+headless = true
+
+[general]
+enableCORS = false
+
+[theme]
+base="light"
