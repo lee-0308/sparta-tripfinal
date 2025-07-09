@@ -1,7 +1,10 @@
 streamlit
 pandas
 numpy
-folium
-streamlit-folium
-Pillow
+matplotlib
+seaborn
 plotly
+scikit-learn
+pydeck
+wordcloud
+google-generativeai
