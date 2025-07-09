@@ -19,11 +19,11 @@ IMG_DIR = BASE_DIR / "Images"
 # ------------------------
 df = pd.read_excel(DATA_DIR / "world_crime_dashborad.xlsx")
 df.rename(columns={
-    'cluster': '클러스터',
-    'cv(Homicide, 10만 명 당)': '살인',
-    'cv(Assault, 10만 명 당)': '폭행',
-    'cv(Kidnapping, 10만 명 당)': '아동납치',
-    'cv(SexualViolence, 10만 명 당)': '성폭력'
+    'cluster': 'Cluster',
+    'cv(Homicide, 10만 명 당)': 'Homicide',
+    'cv(Assault, 10만 명 당)': 'Assault',
+    'cv(Kidnapping, 10만 명 당)': 'Kidnapping',
+    'cv(SexualViolence, 10만 명 당)': 'Sexual Violence'
 }, inplace=True)
 
 # ------------------------
@@ -41,8 +41,8 @@ plt.rcParams['axes.unicode_minus'] = False
 # 3. 사이드바 필터
 # ------------------------
 st.sidebar.header("필터 조건 설정")
-selected_clusters = st.sidebar.multiselect("클러스터 선택", sorted(df['클러스터'].unique()), default=sorted(df['클러스터'].unique()))
-filtered_df = df[df['클러스터'].isin(selected_clusters)].copy()
+selected_clusters = st.sidebar.multiselect("클러스터 선택", sorted(df['Cluster'].unique()), default=sorted(df['Cluster'].unique()))
+filtered_df = df[df['Cluster'].isin(selected_clusters)].copy()
 
 country_options = ["모두 보기"] + sorted(filtered_df['Country'].unique())
 selected_country = st.sidebar.selectbox("국가 선택", country_options)
@@ -71,13 +71,13 @@ def plot_radar_chart_z(df_means):
     fig = plt.figure(figsize=(6, 5))
     for i, row in df_z.iterrows():
         values = row.tolist() + [row.tolist()[0]]
-        plt.polar(angles, values, label=f'클러스터 {i}')
+        plt.polar(angles, values, label=f'Cluster {i}')
         plt.fill(angles, values, alpha=0.1)
     plt.xticks(angles[:-1], df_z.columns)
     plt.legend(loc='upper right')
     return fig
 
-cluster_means = filtered_df.groupby('클러스터')[['살인', '폭행', '아동납치', '성폭력']].mean()
+cluster_means = filtered_df.groupby('Cluster')[['Homicide', 'Assault', 'Kidnapping', 'Sexual Violence']].mean()
 if not cluster_means.empty:
     st.pyplot(plot_radar_chart_z(cluster_means))
 else:
@@ -115,7 +115,7 @@ if not cluster_means.empty:
 
     fig_hm_z, ax_hm_z = plt.subplots(figsize=(8, 4))
     sns.heatmap(cluster_means_z, annot=True, fmt=".2f", cmap="coolwarm", ax=ax_hm_z)
-    ax_hm_z.set_title("클러스터별 정규화 히트맵")
+    ax_hm_z.set_title("Normalized Heatmap by Cluster")
     plt.tight_layout()
     st.pyplot(fig_hm_z)
 else:
@@ -135,7 +135,7 @@ if user_country:
         st.success(f"✅ {user_country}의 범죄 데이터를 찾았습니다.")
         st.dataframe(country_data)
 
-        cluster_num = int(country_data.iloc[0]['클러스터'])
+        cluster_num = int(country_data.iloc[0]['Cluster'])
         indicators = {
             "살인": float(country_data['살인'].values[0]),
             "폭행": float(country_data['폭행'].values[0]),
@@ -159,10 +159,10 @@ if user_country:
 이 나라는 클러스터 {cluster_num} - {cluster_name}에 속합니다.
 
 범죄율 (인구 10만명당 기준):
-- 살인: {indicators['살인']}
-- 폭행: {indicators['폭행']}
-- 아동납치: {indicators['아동납치']}
-- 성폭력: {indicators['성폭력']}
+- 살인: {indicators['Homicide']}
+- 폭행: {indicators['Assault']}
+- 아동납치: {indicators['Kidnapping']}
+- 성폭력: {indicators['Sexual Violence']}
 
 이 클러스터의 해석:
 {cluster_comment}
@@ -195,13 +195,13 @@ if user_country:
 # 9. 국가별 지도 시각화
 # ------------------------
 st.subheader("🗺️ 국가별 클러스터 지도")
-filtered_df['클러스터'] = filtered_df['클러스터'].astype(str)
+filtered_df['Cluster'] = filtered_df['Cluster'].astype(str)
 color_map = {'0': '#1f77b4', '1': '#ff7f0e', '2': '#2ca02c', '3': '#d62728'}
 fig_map = px.choropleth(
     filtered_df,
     locations='Country',
     locationmode='country names',
-    color='클러스터',
+    color='Cluster',
     hover_name='Country',
     color_discrete_map=color_map
 )

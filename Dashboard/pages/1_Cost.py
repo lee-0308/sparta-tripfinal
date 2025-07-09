@@ -225,8 +225,8 @@ for container in ax.containers:
 
 # 6. 그래프 설정
 
-ax.set_ylabel("평균 비용 (USD 기준)")
-ax.set_xlabel("지표")
+ax.set_ylabel("Average Cost (USD)")
+ax.set_xlabel("Indicators")
 ax.legend(title='Cluster', loc='upper right')
 plt.xticks(rotation=15)
 plt.tight_layout()
@@ -257,8 +257,8 @@ sns.heatmap(cluster_means_for_heatmap, annot=True, fmt=".1f", cmap="YlGnBu", ax=
 
 # 4. 그래프 설정
 
-ax.set_xlabel("지표")
-ax.set_ylabel("클러스터")
+ax.set_xlabel("Indicators")
+ax.set_ylabel("Cluster")
 plt.tight_layout()
 
 # 5. 출력

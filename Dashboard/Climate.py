@@ -107,22 +107,22 @@ y2 = df['annual_temp_range']
 fig, ax1 = plt.subplots(figsize=(10, 6))
 
 # 1월 평균 기온 (선)
-line1, = ax1.plot(x, y1, color='blue', marker='o', label='1월 평균 기온 (℃)')
-ax1.set_xlabel("군집(클러스터)")
-ax1.set_ylabel("1월 평균 기온 (℃)", color='blue')
+line1, = ax1.plot(x, y1, color='blue', marker='o', label='January Average Temperature (℃)')
+ax1.set_xlabel("Cluster")
+ax1.set_ylabel("January Average Temperature (℃)", color='blue')
 
 # 연교차 (막대)
 ax2 = ax1.twinx()
 bars = ax2.bar(x, y2, alpha=0.5, color='red')
-ax2.set_ylabel("연교차 (℃)", color='red')
+ax2.set_ylabel("Annual Temperature Range (℃)", color='red')
 
 # ✅ 범례 수동 지정 (Patch를 직접 만듦)
 line_legend = line1
-bar_legend = mpatches.Patch(color='red', alpha=0.5, label='연교차 (℃)')
+bar_legend = mpatches.Patch(color='red', alpha=0.5, label='Annual Temperature Range (℃)')
 
 ax1.legend(handles=[line_legend, bar_legend], loc='upper left')
 
-plt.title('세계 도시들의 1월 평균 기온과 연교차에 대한 군집')
+plt.title('Global City Clusters: January Temp & Annual Range')
 
 fig.tight_layout()
 st.pyplot(fig)
@@ -139,13 +139,13 @@ fig, ax1 = plt.subplots()
 ax2 = ax1.twinx()
 
 # 각 축에 그래프 그리기
-line1, = ax1.plot(x, y1, 'k-', marker='o', label='7월 평균 기온(℃)') # y1 그래프 녹색 실선
-line2, = ax2.plot(x, y2, 'b-', marker='o', label='한국과 비교한 연교차 차이 (℃)') # y2 그래프 파란색 실선
+line1, = ax1.plot(x, y1, 'k-', marker='o', label='January Average Temperature(℃)') # y1 그래프 녹색 실선
+line2, = ax2.plot(x, y2, 'b-', marker='o', label='Annual Temp Range Difference vs. Korea (℃)') # y2 그래프 파란색 실선
 
 # 축 레이블 설정
-ax1.set_xlabel('군집(클러스터)')
-ax1.set_ylabel('7월 평균 기온 (℃)')
-ax2.set_ylabel('한국과의 연교차 차이 정도 (℃)', color='b')
+ax1.set_xlabel('Cluster')
+ax1.set_ylabel('January Average Temperature (℃)')
+ax2.set_ylabel('Annual Temp Range Gap from Korea (℃)', color='b')
 
 # 범례 표시 (위치 조정)
 lines = [line1, line2]
@@ -154,7 +154,7 @@ plt.legend(lines, labels, loc='lower left') # 범례 위치 조정
 
 # x축 눈금 간격 설정 (0부터 10까지 2 간격으로)
 plt.xticks(np.arange(0, 5, 1))
-plt.title('7월 평균 기온과, 한국과의 연교차 비교값에 대한 군집')
+plt.title('Clusters by July Temp and Temp Range Gap vs. Korea')
 
 fig.tight_layout()
 st.pyplot(fig)
@@ -171,13 +171,13 @@ fig, ax1 = plt.subplots()
 ax2 = ax1.twinx()
 
 # 각 축에 그래프 그리기
-line1, = ax1.plot(x, y1, 'm-', marker='o', label='연교차 (℃)') # y1 그래프 녹색 실선
-line2, = ax2.plot(x, y2, 'g-', marker='o', label='신용카드 사용률 (%)') # y2 그래프 파란색 실선
+line1, = ax1.plot(x, y1, 'm-', marker='o', label='Annual Temperature Range (℃)') # y1 그래프 녹색 실선
+line2, = ax2.plot(x, y2, 'g-', marker='o', label='Credit Card Usage Rate (%)') # y2 그래프 파란색 실선
 
 # 축 레이블 설정
-ax1.set_xlabel('군집(클러스터)')
-ax1.set_ylabel('연교차 (℃)', color='m')
-ax2.set_ylabel('신용카드 사용률 (%)', color='g')
+ax1.set_xlabel('Cluster')
+ax1.set_ylabel('Annual Temperature Range (℃)', color='m')
+ax2.set_ylabel('Credit Card Usage Rate (%)', color='g')
 
 # x축 눈금 간격 설정 (0부터 10까지 2 간격으로)
 plt.xticks(np.arange(0, 5, 1))
@@ -186,7 +186,7 @@ plt.xticks(np.arange(0, 5, 1))
 lines = [line1, line2]
 labels = [l.get_label() for l in lines]
 plt.legend(lines, labels, loc='lower left') # 범례 위치 조정
-plt.title('연교차와 신용카드 사용률에 대한 군집')
+plt.title('Clusters by Temp Range & Card Usage')
 
 fig.tight_layout()
 st.pyplot(fig)
