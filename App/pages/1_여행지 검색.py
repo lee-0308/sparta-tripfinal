@@ -130,7 +130,7 @@ else:
 
     with col1:
         st.subheader("상세 정보")
-        if st.button("항공권 예약하기"):
+        if st.button("항공권 조회하기"):
             # print(merged_airport.head)
             airport_name = merged_airport[merged_airport['City_name']==selected_city]['Arriv_Airport_KOR'].unique()
             st.session_state['selected_airport'] = airport_name
