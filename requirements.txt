@@ -9,3 +9,4 @@ pydeck
 wordcloud
 google-generativeai
 openpyxl
+folium
