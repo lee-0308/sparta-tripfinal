@@ -7,11 +7,16 @@ import platform
 import plotly.express as px
 from sklearn.preprocessing import StandardScaler
 from matplotlib import cm
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+DATA_DIR = BASE_DIR / "Files"
+IMG_DIR = BASE_DIR / "Images"
 
 # ------------------------
 # 1. 데이터 불러오기
 # ------------------------
-df = pd.read_csv('/Users/t2023-m0094/Desktop/최종프로젝트/csv파일/가성비중심_분석용.csv')
+df = pd.read_csv(DATA_DIR / "가성비중심_분석용.csv")
 df.rename(columns={'cluster': 'Cluster'}, inplace=True)
 
 # ------------------------

@@ -9,7 +9,7 @@ st.set_page_config(
     page_icon="✈️"
 )
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = BASE_DIR / "Files"
 IMG_DIR = BASE_DIR / "Images"
 

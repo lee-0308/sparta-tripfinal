@@ -5,13 +5,18 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import numpy as np
 import platform
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "Files"
+IMG_DIR = BASE_DIR / "Images"
 
 
 # ------------------------
 # 1. 데이터 불러오기
 # ------------------------
-df = pd.read_csv('Climate_Cluster1.csv')
-df2 = pd.read_csv('Countries_with_cluster.csv')
+df = pd.read_csv(DATA_DIR / "Climate_Cluster1.csv")
+df2 = pd.read_csv(DATA_DIR / "Countries_with_cluster.csv")
 
 # ------------------------
 # 2. 제목 & 설명

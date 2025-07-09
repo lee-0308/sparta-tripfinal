@@ -23,7 +23,7 @@ if "show_airports" not in st.session_state:
 if "selected_place_info" not in st.session_state:
     st.session_state.selected_place_info = None
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = BASE_DIR / "Files"
 IMG_DIR = BASE_DIR / "Images"
 
